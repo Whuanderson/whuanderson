@@ -10,16 +10,16 @@ I'm studying to become a developer of websites, mobile apps and APIs.
 
 ## Connect with me:
 <p>
-<a hreef="https://www.linkedin.com/in/whuanderson-de-sousa-porto-marinho-a07204216/" target="_blank">
+<a href="https://www.linkedin.com/in/whuanderson-de-sousa-porto-marinho-a07204216/" target="_blank">
   <img aling="center" alt="whuanderson-linkedin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
   </a>
-<a hreef="https://www.instagram.com/whuandersonp/" target="_blank">
+<a href="https://www.instagram.com/whuandersonp/" target="_blank">
   <img aling="center" alt="whuanderson-instagram" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
   </a>
-  <a hreef="https://www.facebook.com/WhuandersonMarinho" target="_blank">
+  <a href="https://www.facebook.com/WhuandersonMarinho" target="_blank">
   <img aling="center" alt="whuanderson-facebook" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" style="max-width:100%;">
   </a>
-    <a hreef="https://twitter.com/Whuanderson" target="_blank">
+    <a href="https://twitter.com/Whuanderson" target="_blank">
   <img aling="center" alt="whuanderson-twitter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="max-width:100%;">
   </a>
   </P>
