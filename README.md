@@ -8,7 +8,7 @@ I'm studying to become a developer of websites, mobile apps and APIs.
 
 :computer: Here you will find some works i did while studying.
 
-## Connect with me:
+## Connect with me 🔗
 <p>
 <a href="https://www.linkedin.com/in/whuanderson-de-sousa-porto-marinho-a07204216/" target="_blank">
   <img aling="center" alt="whuanderson-linkedin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
@@ -24,7 +24,7 @@ I'm studying to become a developer of websites, mobile apps and APIs.
   </a>
   </P>
   
-## My Skills
+## My Skills ✍️
 <p>
 <img src="https://camo.githubusercontent.com/63f020ff7abb9f79c154acf4a7f6eab051eec7573839195e0cd5c6697fe4e01a/68747470733a2f2f7777772e637265617469766566726565646f6d2e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f323031332f30332f30302d616e64726f69642d342d305f69636f6e732e706e67" height="35px" data-canonical-src="https://www.creativefreedom.co.uk/wp-content/uploads/2013/03/00-android-4-0_icons.png" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/7877b535720fe5bb7b1d265d7113d06a127ffb065ef2dbb3eb525e6275353947/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f6170706c652d6c6f676f2d706e672f6170706c652d6c6f676f2d69636f6e2d7472616e73706172656e742d706e672d7376672d766563746f722d332e706e67" height="35px" data-canonical-src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" style="max-width:100%;">
@@ -39,10 +39,14 @@ I'm studying to become a developer of websites, mobile apps and APIs.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35px" style="max-width:100%;">
  
  </p>
+ 
+ ## Pins 📌
 
+ [![gameplay Card](https://github-readme-stats.vercel.app/api/pin/?username=whuanderson&repo=gameplay-nlw-rn)](https://github.com/Whuanderson/gameplay-nlw-rn)
+ 
+  [![rentx Card](https://github-readme-stats.vercel.app/api/pin/?username=whuanderson&repo=rentx-ignit-complet-rocket-seat)](https://github.com/Whuanderson/rentx-ignit-complet-rocket-seat)
 
-  
-
+## Statistic ⏲️ 
 ![Whuanderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whuanderson&show_icons=true&theme=dracula)
 
 
