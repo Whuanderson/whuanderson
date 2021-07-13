@@ -39,17 +39,5 @@ I'm studying to become a developer of websites, mobile apps and APIs.
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35px" style="max-width:100%;">
  
  </p>
- 
- ## Pins 📌
-
- [![gameplay Card](https://github-readme-stats.vercel.app/api/pin/?username=whuanderson&repo=gameplay-nlw-rn)](https://github.com/Whuanderson/gameplay-nlw-rn)
- 
-  [![rentx Card](https://github-readme-stats.vercel.app/api/pin/?username=whuanderson&repo=rentx-ignit-complet-rocket-seat)](https://github.com/Whuanderson/rentx-ignit-complet-rocket-seat)
-
-## Statistic ⏲️ 
-![Whuanderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whuanderson&show_icons=true&theme=dracula)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whuanderson)](https://github.com/Whuanderson/github-readme-stats)
 
 
